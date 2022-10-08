@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Atmconsole\Atmconsole\bin\Debug\netcoreapp3.1\Atmconsole.exe
+C:\Users\user\source\repos\Atmconsole\Atmconsole\bin\Debug\netcoreapp3.1\Atmconsole.deps.json
+C:\Users\user\source\repos\Atmconsole\Atmconsole\bin\Debug\netcoreapp3.1\Atmconsole.runtimeconfig.json
+C:\Users\user\source\repos\Atmconsole\Atmconsole\bin\Debug\netcoreapp3.1\Atmconsole.runtimeconfig.dev.json
+C:\Users\user\source\repos\Atmconsole\Atmconsole\bin\Debug\netcoreapp3.1\Atmconsole.dll
+C:\Users\user\source\repos\Atmconsole\Atmconsole\bin\Debug\netcoreapp3.1\Atmconsole.pdb
+C:\Users\user\source\repos\Atmconsole\Atmconsole\obj\Debug\netcoreapp3.1\Atmconsole.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Atmconsole\Atmconsole\obj\Debug\netcoreapp3.1\Atmconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Atmconsole\Atmconsole\obj\Debug\netcoreapp3.1\Atmconsole.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Atmconsole\Atmconsole\obj\Debug\netcoreapp3.1\Atmconsole.AssemblyInfo.cs
+C:\Users\user\source\repos\Atmconsole\Atmconsole\obj\Debug\netcoreapp3.1\Atmconsole.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Atmconsole\Atmconsole\obj\Debug\netcoreapp3.1\Atmconsole.dll
+C:\Users\user\source\repos\Atmconsole\Atmconsole\obj\Debug\netcoreapp3.1\Atmconsole.pdb
+C:\Users\user\source\repos\Atmconsole\Atmconsole\obj\Debug\netcoreapp3.1\Atmconsole.genruntimeconfig.cache
